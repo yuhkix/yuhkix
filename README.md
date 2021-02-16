@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I'm 15 years old and to be honest, explicit is better than implicit.
+  I'm 15 years old, explicit is better than implicit.
 </p>
 
 <hr>
