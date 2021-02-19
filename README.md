@@ -21,7 +21,7 @@
 <hr>
 
 <p align='center'>
-<img src="https://cdn.discordapp.com/attachments/536501170353602627/812389328055042088/kimetsu-no-yaiba-agatsuma-zenitsu.gif"/>
+<img src="https://s11.favim.com/orig/7/773/7739/77395/gif-kimetsu-no-yaiba-agatsuma-zenitsu-Favim.com-7739563.gif"/>
 </p>
 
 <hr>
