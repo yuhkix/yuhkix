@@ -1,9 +1,9 @@
 <h1 align='center'>
-  🥀 Hi there, I'm crypto.
+  🥀 hi there, i'm crypto.
 </h1>
 
 <p align='center'>
-  I'm 15 years old, explicit is better than implicit.
+  i'm 15 years old, explicit is better than implicit.
 </p>
 
 <hr>
@@ -21,7 +21,7 @@
 <hr>
 
 <p align='center'>
-<img src="https://media.discordapp.net/attachments/536501170353602627/799613393232986152/original.gif"/>
+<img src="https://cdn.discordapp.com/attachments/536501170353602627/812389328055042088/kimetsu-no-yaiba-agatsuma-zenitsu.gif"/>
 </p>
 
 <hr>
