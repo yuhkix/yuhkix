@@ -21,7 +21,7 @@
 <hr>
 
 <p align='center'>
-<img src="https://camo.githubusercontent.com/56442a2119f0cdd239ef1069ca4c3972ef14e4c31768405c310497f1a999173a/68747470733a2f2f692e696d6775722e636f6d2f4c534c67496e672e676966"/>
+<img src="https://giffiles.alphacoders.com/211/211060.gif"/>
 </p>
 
 <hr>
