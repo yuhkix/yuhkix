@@ -27,6 +27,6 @@
 <hr>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qtCRYPTO&show_icons=true&include_all_commits=true&theme=radical" alt="crypto's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtCRYPTO&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qtCRYPTO&show_icons=true&include_all_commits=true&theme=dracula" alt="crypto's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtCRYPTO&layout=compact&theme=dracula" />
 </p>
