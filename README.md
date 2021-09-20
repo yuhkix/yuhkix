@@ -12,13 +12,9 @@
   <img src="https://img.shields.io/badge/csharp%20-76932F.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 </p>
 
-<hr>
-
 <p align='center'>
-  <img src="https://img.shields.io/badge/crypto%230002%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/crypto%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
-
-<hr>
 
 <p align='center'>
 <img src="https://media.discordapp.net/attachments/536501170353602627/889543126019096626/salmon.gif"/>
