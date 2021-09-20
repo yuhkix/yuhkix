@@ -1,5 +1,5 @@
 <h1 align='center'>
-  🥀 hi there, i'm crypto.
+  🍣 hi there, i'm yuhki.
 </h1>
 
 <p align='center'>
@@ -13,7 +13,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/crypto%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/yuhki%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 <p align='center'>
