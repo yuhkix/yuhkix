@@ -21,7 +21,7 @@
 <hr>
 
 <p align='center'>
-<img src="https://giffiles.alphacoders.com/211/211060.gif"/>
+<img src="https://media.discordapp.net/attachments/536501170353602627/889543126019096626/salmon.gif"/>
 </p>
 
 <hr>
