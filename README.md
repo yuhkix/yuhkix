@@ -1,5 +1,5 @@
 <div align='center'>
-<h2>🍣 hi there, i'm yuhki.</h2>
+<h2>🍣 Hi there, I'm Yuhki.</h2>
   
 <p>I'm 15 years old, explicit is better than implicit.</p>
   
