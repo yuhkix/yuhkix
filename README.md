@@ -6,8 +6,6 @@
   I'm 15 years old, explicit is better than implicit.
 </p>
 
-<hr>
-
 <h2 align='center'>
   Experience with  
 </h2>
@@ -15,8 +13,10 @@
 <p align='center'>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
 
-<img alt="Discord" src="https://img.shields.io/badge/CRYPTO%234144%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>  
+<p align='center'>
+  <img alt="Discord" src="https://img.shields.io/badge/CRYPTO%234144%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 <p align='center'>
