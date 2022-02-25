@@ -17,7 +17,7 @@
 </p>
 
 <p align='center'>
-<img src="https://giffiles.alphacoders.com/211/211796.gif"/>
+<img src="https://cdn.discordapp.com/attachments/536501170353602627/946824614972104774/gojo.gif"/>
 </p>
 
 <hr>
