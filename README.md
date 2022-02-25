@@ -7,6 +7,7 @@
   
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt="Discord" src="https://img.shields.io/static/v1?style=for-the-badge&message=CRYPTO%234144&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/>
   
 <p> <img src="https://cdn.discordapp.com/attachments/536501170353602627/946827490020720650/gojo.gif"/> </p>
   
