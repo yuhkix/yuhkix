@@ -12,10 +12,12 @@
   Experience with  
 </h2>
 
+<p align='center'>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-<img alt="Discord" src="https://img.shields.io/badge/CRYPTO%234144%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+<img alt="Discord" src="https://img.shields.io/badge/CRYPTO%234144%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>  
+</p>
 
 <p align='center'>
 <img src="https://cdn.discordapp.com/attachments/536501170353602627/946827490020720650/gojo.gif"/>
