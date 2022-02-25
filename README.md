@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  i'm 15 years old, explicit is better than implicit.
+  I'm 15 years old, explicit is better than implicit.
 </p>
 
 <hr>
@@ -13,7 +13,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/yuhki%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CRYPTO%234144%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 <p align='center'>
