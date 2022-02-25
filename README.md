@@ -17,7 +17,7 @@
 </p>
 
 <p align='center'>
-<img src="https://media.discordapp.net/attachments/536501170353602627/889543126019096626/salmon.gif"/>
+<img src="https://64.media.tumblr.com/f41872d0a910666b432837241411f5b3/298569d4b47f3ac8-c1/s500x750/e17209d78c8207fd2cdbd8d24dc6d7d5ab8222eb.gifv"/>
 </p>
 
 <hr>
