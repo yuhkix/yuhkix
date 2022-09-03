@@ -1,7 +1,7 @@
 <div align='center'>
 <h2>🍣 Hi there, I'm Yuhki.</h2>
   
-<p>I'm 15 years old, explicit is better than implicit.</p>
+<p>I'm a 15-year-old student from Germany who is currently studying health and nutrition.</p>
   
 <h2>Experience with</h2>
   
