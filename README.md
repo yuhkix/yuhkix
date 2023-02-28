@@ -15,7 +15,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhki&show_icons=true&include_all_commits=true&theme=dracula" alt="yuhkix's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhkix&layout=compact&theme=dracula"/>
   
-<br>  
+<hr>  
+
+<h1>What I'm currently doing</h1>
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=534810356455964703)
   
