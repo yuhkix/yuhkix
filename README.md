@@ -12,8 +12,9 @@
 <p> <img src="https://cdn.discordapp.com/attachments/536501170353602627/946827490020720650/gojo.gif"/> </p>
   
 <hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhki&show_icons=true&include_all_commits=true&theme=dracula" alt="yuhkix's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhkix&layout=compact&theme=dracula"/>
+
+![Yuhki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhkix&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhkix&theme=dracula)
   
 <hr>  
 
