@@ -21,6 +21,6 @@
 
 <h1>What I'm currently doing</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/534810356455964703)](https://discord.com/users/534810356455964703)
+[![Discord Presence](https://lanyard.cnrad.dev/api/534810356455964703?showDisplayName=true)](https://discord.com/users/534810356455964703)
   
 </div>
