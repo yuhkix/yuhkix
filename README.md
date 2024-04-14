@@ -21,7 +21,6 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://www.learncpp.com)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://learn.microsoft.com/en-us/cpp/c-language/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=lua"/>](https://www.lua.org)
 
 
 #### Studying in this moment:
