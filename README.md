@@ -16,10 +16,15 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Main Stack:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://www.learncpp.com)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://learn.microsoft.com/en-us/cpp/c-language/)
+### Primary Languages:
+  [<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=cpp"/>](https://www.learncpp.com)
+  [<img height="48px" width="48px" alt="C#" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  [<img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=c"/>](https://learn.microsoft.com/en-us/cpp/c-language/)
+
+### Exploring:
+  [<img height="48px" width="48px" alt="Rust" src="https://skillicons.dev/icons?i=rust"/>](https://doc.rust-lang.org/book/title-page.html)
+  [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=py"/>](https://www.learnpython.org/)
+
 
 #### Tools:
 
