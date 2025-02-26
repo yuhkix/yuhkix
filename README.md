@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4f4f&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Yuhki;I%27m+a+Student+focusing+on+System+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4f4f&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I%27m+a+Student+focusing+on+App+Development)](https://git.io/typing-svg)
 
 <h4 align="center">- Yuhki -</h4>
 
