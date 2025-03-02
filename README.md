@@ -37,6 +37,6 @@
 
 ## Contact me:
 <div>
-<a href="https://discord.com/users/534810356455964703" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%234E59E0?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/users/1323606732529991720" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%234E59E0?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "https://t.me/Yuhkix"><img loading="lazy" src="https://img.shields.io/badge/Telegram-2793C9?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
