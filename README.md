@@ -2,6 +2,12 @@
 
 <h4 align="center">- Yuhki -</h4>
 
+<h4 align="center">
+ 
+ ![](https://komarev.com/ghpvc/?username=yuhkix&style=plastic)
+ 
+</h4>
+
 <br>
 
 <div align="center" style="margin-bottom:200px">
