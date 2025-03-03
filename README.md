@@ -4,7 +4,7 @@
 
 <h4 align="center">
  
- ![](https://komarev.com/ghpvc/?username=yuhkix&style=plastic)
+ ![](https://komarev.com/ghpvc/?username=yuhkix&style=plastic&color=9b93e5&abbreviated=true)
  
 </h4>
 
