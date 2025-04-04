@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4f4f&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I%27m+a+Student+focusing+on+App+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6371FFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
 
 <h4 align="center">- Yuhki -</h4>
 
@@ -11,8 +11,8 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=yuhkix&theme=aura_dark&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhkix&layout=compact&theme=aura_dark" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=yuhkix&theme=dracula&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhkix&layout=compact&theme=dracula" />
 </div>
 
 
