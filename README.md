@@ -1,6 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6371FFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/44/eb/17/44eb17afabc36a2df89e9bed6494587b.gif" alt="Welcome banner for Yuhki's GitHub profile" width="700"/>
+</div>
 
-<h4 align="center">- Yuhki -</h4>
+<div align="center">
+  <h3>Software Developer | UI/UX Designer</h3>
+</div>
 
 <h4 align="center">
  
