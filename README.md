@@ -8,7 +8,7 @@
 
 <h4 align="center">
  
- ![](https://komarev.com/ghpvc/?username=yuhkix&style=plastic&color=9b93e5)
+ ![](https://count.getloli.com/@yuhkix?name=yuhkix&theme=asoul&padding=1&offset=3&align=center&scale=1&pixelated=0&darkmode=auto)
  
 </h4>
 
