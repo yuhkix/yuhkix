@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/44/eb/17/44eb17afabc36a2df89e9bed6494587b.gif" alt="Welcome banner for Yuhki's GitHub profile" width="700"/>
+  <img src="https://github.com/user-attachments/assets/7d00f11d-27a6-4cf1-adb2-31d4a2b768f8" alt="Welcome banner for Yuhki's GitHub profile" width="700"/>
 </div>
 
 <div align="center">
