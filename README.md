@@ -27,11 +27,14 @@
 
 #### Tools:
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=neovim"/>](https://neovim.io/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=visualstudio"/>](https://visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Icon Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+  [<img height="48px" width="48px" alt="Icon Neovim" src="https://skillicons.dev/icons?i=neovim"/>](https://neovim.io/)
+  [<img height="48px" width="48px" alt="Icon VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+  [<img height="48px" width="48px" alt="Icon VS" src="https://skillicons.dev/icons?i=visualstudio"/>](https://visualstudio.com/)
+  [<img height="48px" width="48px" alt="Icon GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Icon Claude" src="https://i.ibb.co/4n53K2kv/claudecode.png"/>](https://claude.com/)
+
+  [![Tokscale Stats](https://tokscale.ai/api/embed/yuhkix/svg?template=graph&color=halloween&rank=percent&tokens=compact&cost=compact)](https://tokscale.ai/u/yuhkix)
 
 <br>
 
