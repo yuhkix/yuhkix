@@ -16,8 +16,6 @@
 
 ## Languages and Tools
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 ### Primary Languages:
   [<img height="48px" width="48px" alt="Rust" src="https://skillicons.dev/icons?i=rust"/>](https://rust-lang.org/)
   [<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=cpp"/>](https://www.learncpp.com)
