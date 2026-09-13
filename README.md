@@ -32,7 +32,7 @@
   [<img height="48px" width="48px" alt="Icon GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icon Claude" src="https://i.ibb.co/4n53K2kv/claudecode.png"/>](https://claude.com/)
 
-  [![Tokscale Stats](https://tokscale.ai/api/embed/yuhkix/svg?template=graph&color=halloween&rank=percent&tokens=compact&cost=compact)](https://tokscale.ai/u/yuhkix)
+  [![Tokscale Stats](https://tokscale.ai/api/embed/yuhkix/svg?template=graph&color=orange&tokens=compact&cost=compact)](https://tokscale.ai/u/yuhkix)
 
 <br>
 
